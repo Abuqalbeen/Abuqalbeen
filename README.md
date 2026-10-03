@@ -2,20 +2,25 @@
 
 ### Software Developer | Founder of After Hours Software
 
-I'm a developer who enjoys building software, FiveM resources, Discord bots, and backend systems.  
-I enjoy building software and turning ideas into working projects. I mainly work with FiveM development, Discord bots, and other projects through After Hours Software.
+I'm a developer who enjoys turning ideas into working projects. I mainly work with FiveM development, Discord bots, backend systems, and other software projects through **After Hours Software**.
 
 ---
 
-## What I'm Working On
+## 🚧 What I'm Working On
 
-### AHS PoliceDash
+### 🚔 AHS PoliceDash
 A FiveM police dash cam system currently being developed in **C#**.
 
-A FiveM police dash cam system that lets officers use dash cams while on patrol, while authorized officers at the station can watch them live.
+The system lets officers use dash cams while on patrol, while authorized officers at the station can watch them live.
 
-### After Hours Software Bot
-A custom Discord bot developed in **JS** for After Hours Software, including ticket management, logging, moderation tools, embeds, permissions, and other community moderation features.
+**Status:** In Development
+
+### 🤖 After Hours Software Bot
+A custom Discord bot developed in **JavaScript / Node.js** for After Hours Software.
+
+Includes ticket management, logging, moderation tools, custom embeds, permissions, and other community management features.
+
+**Status:** In Development
 
 ---
 
@@ -25,7 +30,7 @@ A custom Discord bot developed in **JS** for After Hours Software, including tic
   <img src="https://skillicons.dev/icons?i=cs,cpp,lua,js,nodejs,python,mysql,git,github,visualstudio" />
 </p>
 
-**Languages**
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -36,7 +41,7 @@ A custom Discord bot developed in **JS** for After Hours Software, including tic
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-**Development**
+### Development
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -50,16 +55,15 @@ A custom Discord bot developed in **JS** for After Hours Software, including tic
 
 ## 🛠️ Current Focus
 
-- Building **AHS PoliceDash**
-- Developing FiveM resources
+- FiveM development
 - Discord bot development
-- C# and .NET development
-- Expanding After Hours Software
+- C# and .NET
+- Building new projects for **After Hours Software**
 
 ---
 
 ### After Hours Software
 
-Building software for communities, developers, and FiveM servers.
+Building FiveM resources, Discord bots, and other software projects.
 
 `Code • Build • Improve`
