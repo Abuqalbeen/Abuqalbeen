@@ -40,7 +40,7 @@ A FiveM police dash cam system currently being developed in **C#**.
 
 The system lets officers use dash cams while on patrol, while authorized officers at the station can watch them live.
 
-The project is being built from the ground up with a focus on creating a complete and easy-to-use system for FiveM communities.
+The project is being built from the ground up with a focus on creating a complete and easy to use system for FiveM communities.
 
 ---
 
