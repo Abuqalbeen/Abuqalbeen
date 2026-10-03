@@ -26,7 +26,7 @@ I'm a software developer who enjoys building projects from the ground up and fig
 
 ---
 
-## 🚧 Current Projects
+## ⚙️ Current Projects
 
 ### AHS PoliceDash
 
