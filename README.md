@@ -44,7 +44,7 @@ The system lets officers use dash cams while on patrol, while authorized officer
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </p>
 
-A custom Discord bot built for **After Hours Software** with ticket management, logging, moderation tools, custom embeds, permissions, and other community management features.
+A custom Discord bot built for **After Hours Software** with ticket management, logging, moderation tools, custom embeds, permissions.
 
 ---
 
