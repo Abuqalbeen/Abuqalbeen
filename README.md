@@ -47,7 +47,7 @@ The project is being built from the ground up with a focus on creating a complet
 ### After Hours Software Bot
 
 <p>
-  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-PRIVATE-6f42c1?style=flat-square" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
