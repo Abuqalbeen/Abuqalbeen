@@ -1,33 +1,57 @@
-# Hey, I'm Za 👋
+<h1 align="center">Hey, I'm Za 👋</h1>
 
-### Software Developer | Founder of After Hours Software
+<h3 align="center">Software Developer | Founder of After Hours Software</h3>
 
-I'm a developer who enjoys turning ideas into working projects. I mainly work with FiveM development, Discord bots, backend systems, and other software projects through **After Hours Software**.
+<p align="center">
+  I enjoy turning ideas into working projects.<br>
+  I mainly work with FiveM development, Discord bots, backend systems, and other software projects through <b>After Hours Software</b>.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abuqalbeen&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+---
+
+## 👨‍💻 Currently
+
+🔭 Building **AHS PoliceDash**  
+🤖 Developing the **After Hours Software Bot**  
+🎮 Creating resources for **FiveM**  
+💻 Working with **C#, C++, Lua, JavaScript, Python & SQL**  
+🚀 Building new projects for **After Hours Software**
 
 ---
 
 ## 🚧 What I'm Working On
 
 ### 🚔 AHS PoliceDash
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILT%20WITH-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
 A FiveM police dash cam system currently being developed in **C#**.
 
 The system lets officers use dash cams while on patrol, while authorized officers at the station can watch them live.
 
-**Status:** In Development
+---
 
 ### 🤖 After Hours Software Bot
-A custom Discord bot developed in **JavaScript / Node.js** for After Hours Software.
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILT%20WITH-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+A custom Discord bot developed for **After Hours Software**.
 
 Includes ticket management, logging, moderation tools, custom embeds, permissions, and other community management features.
-
-**Status:** In Development
 
 ---
 
 ## 💻 Languages & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,lua,js,nodejs,python,mysql,git,github,visualstudio" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,lua,js,nodejs,python,mysql,dotnet,git,github,visualstudio" />
 </p>
 
 ### Languages
@@ -53,17 +77,10 @@ Includes ticket management, logging, moderation tools, custom embeds, permission
 
 ---
 
-## 🛠️ Current Focus
+## 🛠️ What I Work With
 
-- FiveM development
-- Discord bot development
-- C# and .NET
-- Building new projects for **After Hours Software**
-
----
-
-### After Hours Software
-
-Building FiveM resources, Discord bots, and other software projects.
-
-`Code • Build • Improve`
+```text
+FiveM Development     ████████████████████
+Discord Bots          ████████████████████
+Backend Development   ████████████████
+Game Modifications    ████████████████
