@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Za 👋</h1>
 
-<h3 align="center">Software Developer | Founder of After Hours Software</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   I enjoy turning ideas into working projects.<br>
