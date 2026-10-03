@@ -1,4 +1,4 @@
-# Hey, Za 👋
+# Hey, I'm Za 👋
 
 ### Software Developer | Founder of After Hours Software
 
@@ -12,10 +12,10 @@ I enjoy building software and turning ideas into working projects. I mainly work
 ### AHS PoliceDash
 A FiveM police dash cam system currently being developed in **C#**.
 
-The project is designed to provide an immersive dashcam system for law enforcement roleplay, including live viewing capabilities and controlled access for authorized personnel.
+A FiveM police dash cam system that lets officers use dash cams while on patrol, while authorized officers at the station can watch them live.
 
-### 🤖 After Hours Software Bot
-A custom Discord bot developed for After Hours Software, including ticket management, logging, moderation tools, embeds, permissions, and other community management features.
+### After Hours Software Bot
+A custom Discord bot developed in **JS** for After Hours Software, including ticket management, logging, moderation tools, embeds, permissions, and other community moderation features.
 
 ---
 
