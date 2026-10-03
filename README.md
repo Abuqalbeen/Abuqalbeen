@@ -149,9 +149,9 @@ Backend logic, databases, APIs, integrations, and the systems that connect every
 </td>
 <td width="50%" valign="top">
 
-### Game Modifications
+### FiveM Scripts
 
-Custom systems and features that add new functionality and experiences to games.
+Custom scripts for FiveM, built across multiple languages depending on the project.
 
 </td>
 </tr>
