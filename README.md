@@ -1,10 +1,10 @@
-<h1 align="center">Hey, I'm Za 👋</h1>
+<h1 align="center">Howdy! I'm Za 👋</h1>
 
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
   I enjoy turning ideas into working projects.<br>
-  I mainly work with <b>FiveM development, Discord bots, backend systems, and game modifications</b>.
+  I enjoy building <b>FiveM scripts, Discord bots, and custom software</b>, with experience across backend development, databases, and server infrastructure.
 </p>
 
 <p align="center">
