@@ -18,7 +18,7 @@
 I'm a software developer who enjoys building projects from the ground up and figuring things out along the way.
 
 - I work across multiple programming languages depending on the project
-- I enjoy **game modifications, backend development, and automation**
+- I enjoy **backend development, and automation**
 - I build **FiveM resources and Discord applications**
 - I work with databases, APIs, servers, and integrations
 - I'm always experimenting with new ideas and improving what I've already built
