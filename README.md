@@ -125,9 +125,9 @@ The bot includes ticket management, transcripts, logging, moderation tools, cust
 <tr>
 <td width="50%" valign="top">
 
-### FiveM Resources
+### Web Development
 
-Gameplay systems, roleplay tools, integrations, and custom resources built for FiveM servers.
+Websites and web applications built with custom designs, backend functionality, and integrations.
 
 </td>
 <td width="50%" valign="top">
